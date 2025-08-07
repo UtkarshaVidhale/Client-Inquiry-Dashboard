@@ -55,7 +55,7 @@ It also provides external-facing views for enterprise clients to self-monitor is
 ## 🖼️ Sample Visuals
 
 ### SLA Breaches Over Time  
-![SLA Breaches](./assets/sla_breaches_chart.png)
+![SLA Breaches](./sla_breaches_chart.png)
 
 ### Issue Category Breakdown  
 ![Issue Types](./assets/issue_category_breakdown.png)
