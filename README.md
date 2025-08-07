@@ -92,3 +92,11 @@ It also provides external-facing views for enterprise clients to self-monitor is
 ---
 
 
+## 🧭 Why This Project
+
+This project simulates how scalable SaaS and fintech teams improve client outcomes through smart operational dashboards. It blends data storytelling, triage logic, and visual analytics to reduce friction and optimize response strategies.
+
+---
+
+
+
