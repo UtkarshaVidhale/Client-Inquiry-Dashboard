@@ -58,10 +58,10 @@ It also provides external-facing views for enterprise clients to self-monitor is
 ![SLA Breaches](./sla_breaches_chart.png)
 
 ### Issue Category Breakdown  
-![Issue Types](./assets/issue_category_breakdown.png)
+![Issue Types](./issue_category_breakdown.png)
 
 ### Inquiry Status Distribution  
-![Resolution Status](./assets/inquiry_status_pie_chart.png)
+![Resolution Status](./inquiry_status_pie_chart.png)
 
 ---
 
@@ -91,5 +91,4 @@ It also provides external-facing views for enterprise clients to self-monitor is
 
 ---
 
-## 📁 Folder Structure
 
